@@ -1,8 +1,9 @@
 # Advanced-Machine-Learning-project
-Lo scopo di questo progetto `e l’identificazione di un modello per il task di weather recognition. L’applicazione del modello `e pensata per essere eseguita su dispositivi di sen- soristica IoT, dotati di una bassa potenza computazionale, per aumentare la sicurezza alla guida allarmando il guidatore in caso di condizioni meteo sfavorevoli. L’implementazione del modello `e stata dunque focalizzata sull’utilizzo di modelli leggeri come la Mobile Net e di tecniche di pruning calibrate per ridurre il peso in memoria del modello e aumentarne la velocit`a di esecuzione limitando al contempo il calo di performance sull’accuracy della classificazione.
+
+The purpose of this project is the identification of a model for the weather recognition task. The application of the model is designed to be performed on IoT sensor devices, equipped with low computational power, to increase driving safety by alarming the driver in the event of unfavorable weather conditions. The implementation of the model was therefore focused on the use of lightweight models such as the Mobile Net and calibrated pruning techniques to reduce the model's memory weight and increase its execution speed while limiting the decrease in performance on the model. 'accuracy of the classification.
 
 # Software
-Utilizzo di python per questo progetto
+Using python for this project.
 
 # Team
 Francone Vito v.francone@campus.unimib.it 
